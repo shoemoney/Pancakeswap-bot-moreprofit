@@ -44,8 +44,8 @@ K4L: https://www.youtube.com/watch?v=7glaF_gIDj8&t=42s
 
 
 SavannahCat: https://www.youtube.com/watch?v=oI8YoWaqALE&t=3s
-
-              https://www.youtube.com/watch?v=nXHcnsj1I3A
+SavannahCat:  https://www.youtube.com/watch?v=nXHcnsj1I3A
+             
 
 ## 🦊 How to Export Private Key from MetaMask
 ````
@@ -72,12 +72,6 @@ Then run command prompt or powershell
 3. Install dependencies `npm i` or `yarn` if not already completed above.
 4. Start the bot using `npm run start -- --with` or `yarn start -- --with`
 5. Enjoy!
-
-### 🦊 How to Export Private Key from MetaMask
-1. Open your account
-2. Click on three points at top-right corner
-3. Account details
-4. Export Private Key.
 
 ### ✔️ Sample ``.ENV`` file
 ```
